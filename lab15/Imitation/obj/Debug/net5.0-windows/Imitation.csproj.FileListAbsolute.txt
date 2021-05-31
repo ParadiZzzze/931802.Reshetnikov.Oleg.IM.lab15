@@ -1,0 +1,38 @@
+C:\Users\nikita\source\repos\Imitation\Imitation\bin\Debug\net5.0-windows\Imitation.exe
+C:\Users\nikita\source\repos\Imitation\Imitation\bin\Debug\net5.0-windows\Imitation.deps.json
+C:\Users\nikita\source\repos\Imitation\Imitation\bin\Debug\net5.0-windows\Imitation.runtimeconfig.json
+C:\Users\nikita\source\repos\Imitation\Imitation\bin\Debug\net5.0-windows\Imitation.runtimeconfig.dev.json
+C:\Users\nikita\source\repos\Imitation\Imitation\bin\Debug\net5.0-windows\Imitation.dll
+C:\Users\nikita\source\repos\Imitation\Imitation\bin\Debug\net5.0-windows\ref\Imitation.dll
+C:\Users\nikita\source\repos\Imitation\Imitation\bin\Debug\net5.0-windows\Imitation.pdb
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\Imitation.csprojAssemblyReference.cache
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\Imitation.Form1.resources
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\Imitation.csproj.GenerateResource.cache
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\Imitation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\Imitation.AssemblyInfoInputs.cache
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\Imitation.AssemblyInfo.cs
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\Imitation.csproj.CoreCompileInputs.cache
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\Imitation.dll
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\ref\Imitation.dll
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\Imitation.pdb
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\Imitation.genruntimeconfig.cache
+C:\Users\nikita\source\repos\Imitation\Imitation\obj\Debug\net5.0-windows\Imitation.Properties.Resources.resources
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\bin\Debug\net5.0-windows\Imitation.exe
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\bin\Debug\net5.0-windows\Imitation.deps.json
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\bin\Debug\net5.0-windows\Imitation.runtimeconfig.json
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\bin\Debug\net5.0-windows\Imitation.runtimeconfig.dev.json
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\bin\Debug\net5.0-windows\Imitation.dll
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\bin\Debug\net5.0-windows\ref\Imitation.dll
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\bin\Debug\net5.0-windows\Imitation.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\Imitation.csprojAssemblyReference.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\Imitation.Form1.resources
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\Imitation.Properties.Resources.resources
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\Imitation.csproj.GenerateResource.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\Imitation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\Imitation.AssemblyInfoInputs.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\Imitation.AssemblyInfo.cs
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\Imitation.csproj.CoreCompileInputs.cache
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\Imitation.dll
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\ref\Imitation.dll
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\Imitation.pdb
+C:\Users\olegr\OneDrive\Рабочий стол\lab15\Imitation\obj\Debug\net5.0-windows\Imitation.genruntimeconfig.cache
